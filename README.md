@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Frans83
-- 👀 I’m interested in the new products and apps
-- 🌱 I’m currently learning ...
 
-<!---
-Frans83/Frans83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
